@@ -1,4 +1,4 @@
-# Prolog Practice HUB
+# Prolog - Bachelor's degree practical work
 
 This repository is a compilation of `prolog` programs I did in a course during my computer science bachelor's degree at Avignon Université.
 
